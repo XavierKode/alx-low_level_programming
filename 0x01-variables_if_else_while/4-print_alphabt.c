@@ -1,14 +1,14 @@
 #include <stdio.h>
 /**
  * main - main block
- * Description: get a random number and check it
+ * Description: get a random number and check its 
  * Return: 0
  */
 int main(void)
 {
 	char c = 'a';
-	
-	while (c <= 'z');
+
+	while (c <= 'z')
 	{
 		if (c != 'e' && c != 'q')
 		{
@@ -19,3 +19,4 @@ int main(void)
 	putchar('\n');
 	return (0);
 }
+
