@@ -7,7 +7,7 @@
  * starting from 0, followed by new line
  * Return: 0
  */
-int main (void)
+int main(void)
 {
 	char c = '0';
 
