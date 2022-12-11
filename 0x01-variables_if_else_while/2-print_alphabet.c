@@ -2,7 +2,7 @@
 #include <stdlib.h>
 /**
  * main - main block
- * Description: prints alphabets in lowercase, followed by a new line
+ * Description: Get a random number with 5
  * Return: 0
  */
 int main(void)
